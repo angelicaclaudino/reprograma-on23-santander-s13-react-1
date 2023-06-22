@@ -1,0 +1,35 @@
+<!-- function Rascunho (props) {
+    return (
+        <div className="cards_container">
+            <Title text=""/>
+            <Subtitle></Subtitle> 
+            <Image class="image" caption="legenda" image={nomeDaImagem}
+        </div>
+        <h2>{texto}</h2>
+        
+    
+    )
+}
+
+export default Rascunho; 
+
+Bio 
+<h2>{props.text}</h2>
+/*<img src={props.image} alt=''/>
+Para chamar no App.jsx faz: <Bio image/>*/
+
+<h3>{props.children}</h3>
+
+
+// <img className={props.class} src={props.image/>
+    // <p>{props.caption}</p>
+    //Para chamar no App.jsx faz:
+    //<Image class="image" caption="imagem aleatória" image={nomeDaImage}>
+    //importa a imagem e o component 
+    //<img src={props.image} alt=""/>
+
+    //Utilizando a imagem sem o props 
+    //Precisa importar a imagem no componente
+    //<img className='image' src={nomeDaImagem(sem o formato)/>
+    // No Apps também importa e chama o componente: <NomeDoComponente/>
+    //Fazer uma imagem para cada conteúdo -->
